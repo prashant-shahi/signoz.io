@@ -2,20 +2,25 @@ ankit_anand:
   name: Ankit Anand
   title: SigNoz Team
   url: https://github.com/ankit01-oss
-  image_url: https://signoz.io/img/users/ankit-anand.webp
+  image_url: /img/users/ankit-anand.webp
+
+joy_bhattacharjee:
+  name: Joy Bhattacharjee
+  title: SigNoz Community
+  url: https://github.com/Hashfyre
+  image_url: /img/authors/5ZPWaLTu_400x400.webp
 
 vishal:
   name: Vishal Sharma
   title: SigNoz Team
   url: https://github.com/makeavish
-  image_url: https://signoz.io/img/users/vishal-sharma.webp
-
+  image_url: /img/users/vishal-sharma.webp
 
 pranay:
   name: Pranay Prateek
   title: SigNoz Team
   url: https://github.com/pranay01
-  image_url: https://signoz.io/img/authors/pranay_profile_pic.webp
+  image_url: /img/authors/pranay_profile_pic.webp
 
 ankit_nayan:
   name: Ankit Nayan
@@ -27,75 +32,70 @@ selva:
   name: Selvaganesh
   title: SigNoz Community
   url: https://github.com/ganny26
-  image_url: https://signoz.io/img/authors/selva_profile_pic.webp
-
+  image_url: /img/authors/selva_profile_pic.webp
 
 vaishnavi:
   name: Vaishnavi Abirami
   title: SigNoz Community
   url: https://github.com/vaish1707
-  image_url: https://signoz.io/img/authors/vaishnavi_profile_pic.webp
-
+  image_url: /img/authors/vaishnavi_profile_pic.webp
 
 pranshu:
   name: Pranshu Chittora
   title: SigNoz Team
   url: https://github.com/pranshuchittora
-  image_url: https://signoz.io/img/authors/pranshu.webp
-
+  image_url: /img/authors/pranshu.webp
 
 nitya:
   name: Nityananda Gohain
   title: SigNoz Team
   url: https://github.com/nityanandagohain
-  image_url: https://signoz.io/img/authors/nitya_profile_pic.webp
-
+  image_url: /img/authors/nitya_profile_pic.webp
 
 sai_deepesh:
   name: Sai Deepesh
   title: SigNoz Community
   url: https://github.com/saideepesh000
-  image_url: https://signoz.io/img/authors/sai_deepesh_profile.jpeg
-
+  image_url: /img/authors/sai_deepesh_profile.jpeg
 
 srikanth:
   name: Srikanth Chekuri
   title: SigNoz Team
   url: https://github.com/srikanthccv
-  image_url: https://signoz.io/img/authors/srikanth_profile.webp
-  
+  image_url: /img/authors/srikanth_profile.webp
 
 ricardo:
   name: Ricardo Paiva
   title: SigNoz Community
   url: https://github.com/ricardoccpaiva
-  image_url: https://signoz.io/img/authors/ricardo_profile_pic.webp
-
-
+  image_url: /img/authors/ricardo_profile_pic.webp
 
 palash:
   name: Palash Gupta
   title: SigNoz Team
   url: https://github.com/palash-signoz
-  image_url: https://signoz.io/img/authors/palash_gupta_profile.webp
-
+  image_url: /img/authors/palash_gupta_profile.webp
 
 bhupesh:
   name: Bhupesh Varshney
   title: SigNoz Community
   url: https://github.com/Bhupesh-V
-  image_url: https://signoz.io/img/authors/bhupesh_varshney_profile_pic.webp
-
+  image_url: /img/authors/bhupesh_varshney_profile_pic.webp
 
 ezz:
   name: Ezz El Din Abdullah
   title: SigNoz Community
   url: https://www.linkedin.com/in/ezzeddinabdullah/
-  image_url: https://signoz.io/img/authors/ezz_profile_pic.webp
-
+  image_url: /img/authors/ezz_profile_pic.webp
 
 naman:
   name: Naman Jain
   title: SigNoz Community
   url: https://twitter.com/JainNaman18
-  image_url: https://signoz.io/img/authors/naman_jain_profile.webp
+  image_url: /img/authors/naman_jain_profile.webp
+
+prashant:
+  name: Prashant Shahi
+  title: SigNoz Team
+  url: https://github.com/prashant-shahi
+  image_url: /img/authors/prashant.webp

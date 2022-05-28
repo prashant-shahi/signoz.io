@@ -47,7 +47,7 @@ The telemetry data is then sent to an observability tool for storage and visuali
 <!-- ![OpenTelemetry libraries instrument application code to generate telemetry data that is then sent to an observability tool for storage & visualization](Implementi%20ebc9f/how_opentelemetry_fits.png) -->
 
 <figure data-zoomable>
-    <img src="/img/blog/2022/04/how_opentelemetry_fits.webp" alt="How opentelemetry fits with an application"/>
+    <img src="/img/blog/common/how_opentelemetry_fits.webp" alt="How opentelemetry fits with an application"/>
     <figcaption><i>OpenTelemetry libraries instrument application code to generate telemetry data that is then sent to an observability tool for storage & visualization</i></figcaption>
 </figure>
 
